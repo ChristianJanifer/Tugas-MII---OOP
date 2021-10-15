@@ -1,0 +1,16 @@
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.exe
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.deps.json
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.runtimeconfig.json
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.runtimeconfig.dev.json
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.dll
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\ref\HitungGajiKaryawanOOP.dll
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\bin\Debug\net5.0\HitungGajiKaryawanOOP.pdb
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.csproj.AssemblyReference.cache
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.AssemblyInfoInputs.cache
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.AssemblyInfo.cs
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.csproj.CoreCompileInputs.cache
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.dll
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\ref\HitungGajiKaryawanOOP.dll
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.pdb
+D:\METRODATA CODING CAMP\OOP\HitungGajiKaryawanOOP\obj\Debug\net5.0\HitungGajiKaryawanOOP.genruntimeconfig.cache
